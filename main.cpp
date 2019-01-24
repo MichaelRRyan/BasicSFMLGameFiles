@@ -3,6 +3,11 @@
 /// @Date 04/01/2019
 /// Time: 13:00 - 13:17 - Setup the basic game files
 
+/////////////////////////////////////////////////////////////////////////////////////////
+/// Basic starter files written by Michael Rainsford Ryan with the intent for them to ///
+/// be used by anyone creating a new SFML project. Anyone is free to use these files. ///
+/////////////////////////////////////////////////////////////////////////////////////////
+
 #ifdef _DEBUG 
 #pragma comment(lib,"sfml-graphics-d.lib") 
 #pragma comment(lib,"sfml-audio-d.lib") 
